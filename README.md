@@ -1,2 +1,3 @@
 # cm_repo
-Just another repository
+
+Hi Humans！
